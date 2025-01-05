@@ -8,7 +8,7 @@ require (
 	github.com/go-git/go-git/v5 v5.8.1
 	github.com/go-redis/redismock/v9 v9.0.3
 	github.com/redis/go-redis/v9 v9.0.5
-	github.com/stretchr/testify v1.8.4
+	github.com/stretchr/testify v1.10.0
 	github.com/stuttgart-things/redisqueue v0.0.0-20230628084515-1d31f7874df7
 	github.com/stuttgart-things/sthingsBase v0.1.16
 	go.hein.dev/go-version v0.1.0
